@@ -40,11 +40,13 @@ Interested in building efficient, scalable solutions and continuously learning a
 
 ## 🌐 Connect With Me  
 
-<p align="center">
-<a href="https://www.linkedin.com/in/sohum-lad/">
-<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Sohum%20Lad-blue?style=flat-square&logo=linkedin">
+<a href="https://github.com/Sohum04" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="Sohum04" height="30" width="40" />
 </a>
-<a href="mailto:sohumlad@gmail.com">
-<img alt="Email" src="https://img.shields.io/badge/Email-sohumlad%40gmail.com-blue?style=flat-square&logo=gmail">
+<a href="https://linkedin.com/in/sohum-lad/" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sohum-lad" height="30" width="40" />
+</a>
+<a href="mailto:sohumlad@gmail.com" target="blank">
+<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="sohumlad@gmail.com" height="30" width="40" />
 </a>
 </p>
